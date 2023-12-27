@@ -1,0 +1,12 @@
+=============== Dec 24, 2023 (GMT) ===============
+15:56:18.524962 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:56:18.526513 version@stat F·[] S·0B[] Sc·[]
+15:56:18.526641 db@open opening
+15:56:18.526836 journal@recovery F·1
+15:56:18.534494 journal@recovery recovering @2
+15:56:18.535814 journal@drop journal-2 S·2KiB "invalid chunk type 0x5"
+15:56:18.543176 version@stat F·[] S·0B[] Sc·[]
+15:56:18.558810 db@janitor F·2 G·0
+15:56:18.558890 db@open done T·32.214667ms
+15:56:18.560450 db@close closing
+15:56:18.560734 db@close done T·274.667µs

@@ -1,0 +1,291 @@
+=============== Dec 24, 2023 (GMT) ===============
+15:56:18.279403 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:56:18.280779 manifest error: leveldb: manifest corrupted (field 'comparer'): short read [file=MANIFEST-000036] (skipped)
+15:56:18.280841 manifest error: leveldb: manifest corrupted (field 'comparer'): short read [file=MANIFEST-000036] (skipped)
+15:56:18.280895 manifest error: leveldb: manifest corrupted (field 'comparer'): short read [file=MANIFEST-000036] (skipped)
+=============== Dec 24, 2023 (GMT) ===============
+15:56:18.281257 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:56:18.281493 table@recovery F·1
+15:56:18.281522 table@recovery recovering @38
+15:56:18.282372 table@recovery unrecoverable @38 Ck·0 Cb·0 S·1517509
+15:56:18.282411 table@recovery recovered F·1 N·0 Gk·0 Ck·0 Q·0
+15:56:18.298460 version@stat F·[] S·0B[] Sc·[]
+15:56:18.357432 db@open opening
+15:56:18.357735 journal@recovery F·3
+15:56:18.359437 journal@recovery recovering @35
+15:56:18.361882 journal@drop journal-35 S·32KiB "invalid chunk type 0x5"
+15:56:18.362185 journal@drop journal-35 S·32KiB "invalid chunk type 0x8"
+15:56:18.365332 journal@drop journal-35 S·32KiB "invalid chunk type 0x8"
+15:56:18.365452 journal@drop journal-35 S·32KiB "invalid chunk type 0x8"
+15:56:18.365515 journal@drop journal-35 S·32KiB "invalid chunk type 0x8"
+15:56:18.365567 journal@drop journal-35 S·32KiB "invalid chunk type 0x8"
+15:56:18.365742 journal@drop journal-35 S·8KiB "invalid chunk type 0x8"
+15:56:18.365784 journal@recovery recovering @39
+15:56:18.365916 version@stat F·[] S·0B[] Sc·[]
+15:56:18.376845 journal@drop journal-39 S·32KiB "invalid chunk type 0x5"
+15:56:18.377123 journal@drop journal-39 S·32KiB "invalid chunk type 0x5"
+15:56:18.380219 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.380301 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.380353 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.380404 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.383443 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.383518 journal@drop journal-39 S·32KiB "invalid chunk type 0x5"
+15:56:18.383570 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.383619 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.386493 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.386570 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.386622 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.386674 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.389585 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.389709 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.389767 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.389826 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.392664 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.392749 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.392802 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.392850 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.395676 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.395751 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.395802 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.395852 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.398750 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.398833 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.398880 journal@drop journal-39 S·32KiB "invalid chunk type 0x5"
+15:56:18.398928 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.401851 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.401947 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.402037 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.402089 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.404876 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.404954 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.405005 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.405054 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.408207 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.408390 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.408463 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.408540 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.411355 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.411553 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.411630 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.411695 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.414426 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.414647 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.414729 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.414793 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.417520 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.417654 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.417713 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.417766 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.420531 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.420618 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.420675 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.420727 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.423581 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.423672 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.423724 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.423773 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.426659 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.426751 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.426802 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.426848 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.429731 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.429823 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.429873 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.429920 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.432780 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.432866 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.432914 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.432962 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.435856 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.435942 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.435990 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.436036 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.438935 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.439028 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.439077 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.439124 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.441982 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.442082 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.442131 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.442176 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.445056 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.445175 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.445222 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.445267 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.448135 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.448221 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.448265 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.448308 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.451171 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.451257 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.451302 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.451347 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.453522 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.453601 journal@drop journal-39 S·32KiB "invalid chunk type 0x8"
+15:56:18.453651 journal@drop journal-39 S·30KiB "invalid chunk type 0x8"
+15:56:18.453699 journal@recovery recovering @40
+15:56:18.453855 version@stat F·[] S·0B[] Sc·[]
+15:56:18.462250 journal@drop journal-40 S·32KiB "invalid chunk type 0x5"
+15:56:18.462519 journal@drop journal-40 S·32KiB "invalid chunk type 0x5"
+15:56:18.465655 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.465744 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.465793 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.465840 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.468723 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.468804 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.468849 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.468893 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.471770 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.471863 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.471910 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.471956 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.474839 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.474926 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.474972 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.475015 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.477934 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.478017 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.478062 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.478107 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.480971 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.481050 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.481097 journal@drop journal-40 S·32KiB "invalid chunk type 0x7"
+15:56:18.481144 journal@drop journal-40 S·32KiB "invalid chunk type 0x7"
+15:56:18.484055 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.484144 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.484190 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.484235 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.487127 journal@drop journal-40 S·32KiB "invalid chunk type 0x5"
+15:56:18.487214 journal@drop journal-40 S·32KiB "invalid chunk type 0x5"
+15:56:18.487260 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.487304 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.490168 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.490255 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.490300 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.490345 journal@drop journal-40 S·32KiB "invalid chunk type 0x5"
+15:56:18.493249 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.493335 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.493447 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.493504 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.496332 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.496414 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.496464 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.496511 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.499379 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.499462 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.499512 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.499560 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.502450 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.502533 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.502582 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.502630 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.505670 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.505841 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.505921 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.505992 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.508628 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.508722 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.508770 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.508819 journal@drop journal-40 S·32KiB "invalid chunk type 0x8"
+15:56:18.509006 journal@drop journal-40 S·6KiB "invalid chunk type 0x8"
+15:56:18.516298 version@stat F·[] S·0B[] Sc·[]
+15:56:18.521021 db@janitor F·5 G·3
+15:56:18.521080 db@janitor removing manifest-36
+15:56:18.521207 db@janitor removing table-38
+15:56:18.521353 remove 000038.ldb: remove /home/team6/EthereumVoting/node1/geth/chaindata/000038.ldb: no such file or directory (old name)
+15:56:18.521409 db@janitor removing manifest-28
+15:56:18.521595 db@open done T·164.061413ms
+15:56:18.523368 db@close closing
+15:56:18.523611 db@close done T·238.722µs
+=============== Dec 24, 2023 (GMT) ===============
+16:13:32.628336 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:13:32.628846 version@stat F·[] S·0B[] Sc·[]
+16:13:32.628945 db@open opening
+16:13:32.629133 journal@recovery F·1
+16:13:32.645602 journal@recovery recovering @41
+16:13:32.657062 memdb@flush created L0@42 N·15 S·1011B "H\xc8\xc8..#L\xdf,v8":"\xc5\xd0\xc2..\x9f\x8e\xd9,v5"
+16:13:32.672571 version@stat F·[1] S·1011B[1011B] Sc·[0.25]
+16:13:32.688480 db@janitor F·3 G·0
+16:13:32.688573 db@open done T·59.587349ms
+16:45:51.617160 db@close closing
+16:45:51.618023 db@close done T·848.541µs
+=============== Dec 24, 2023 (GMT) ===============
+16:51:37.735885 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:51:37.736401 version@stat F·[1] S·1011B[1011B] Sc·[0.25]
+16:51:37.736504 db@open opening
+16:51:37.736687 journal@recovery F·1
+16:51:37.755407 journal@recovery recovering @43
+16:51:37.811827 memdb@flush created L0@45 N·3521 S·185KiB " :\xb4..\xc2\b\x03,v3522":"\xdc\xe11..A;1,v3531"
+16:51:37.828591 version@stat F·[2] S·186KiB[186KiB] Sc·[0.50]
+16:51:37.844680 db@janitor F·4 G·0
+16:51:37.844787 db@open done T·108.239049ms
+16:51:38.091163 table@compaction L0·2 -> L1·0 S·186KiB Q·3539
+16:51:38.116564 table@build created L1@48 N·2369 S·138KiB " :\xb4..\xc2\b\x03,v3522":"\xdc\xe11..A;1,v3531"
+16:51:38.116738 version@stat F·[0 1] S·138KiB[0B 138KiB] Sc·[0.00 0.00]
+16:51:38.120180 table@compaction committed F-1 S-47KiB Ke·0 D·1167 T·28.803738ms
+16:51:38.120464 table@remove removed @42
+18:15:40.581066 db@close closing
+18:15:40.581504 db@close done T·377.178µs
+=============== Dec 24, 2023 (GMT) ===============
+18:29:14.449715 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:29:14.451778 version@stat F·[0 1] S·138KiB[0B 138KiB] Sc·[0.00 0.00]
+18:29:14.451878 db@open opening
+18:29:14.452060 journal@recovery F·1
+18:29:14.474148 journal@recovery recovering @46
+18:29:14.642064 memdb@flush created L0@49 N·9107 S·472KiB "\x1e5Y..\xa3\xe7\x9f,v12644":"\xe3\xb5\xd7..\xaf\xc2\x15,v12643"
+18:29:14.658007 version@stat F·[1 1] S·611KiB[472KiB 138KiB] Sc·[0.25 0.00]
+18:29:14.674339 db@janitor F·5 G·1
+18:29:14.674400 db@janitor removing table-45
+18:29:14.674555 db@open done T·222.64119ms
+18:32:37.001061 table@compaction L0·1 -> L1·1 S·611KiB Q·13008
+18:32:37.073641 table@build created L1@52 N·8445 S·486KiB "\x1e5Y..\xa3\xe7\x9f,v12644":"\xe3\xb5\xd7..\xaf\xc2\x15,v12643"
+18:32:37.073824 version@stat F·[0 1] S·486KiB[0B 486KiB] Sc·[0.00 0.00]
+18:32:37.076759 table@compaction committed F-1 S-124KiB Ke·0 D·3031 T·75.587541ms
+18:32:37.077034 table@remove removed @48
+20:03:42.532367 db@close closing
+20:03:42.532688 db@close done T·309.033µs
+=============== Dec 25, 2023 (GMT) ===============
+06:44:43.448790 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:44:43.453301 version@stat F·[0 1] S·486KiB[0B 486KiB] Sc·[0.00 0.00]
+06:44:43.453458 db@open opening
+06:44:43.453717 journal@recovery F·1
+06:44:43.474669 journal@recovery recovering @50
+06:44:43.613485 memdb@flush created L0@53 N·10252 S·535KiB "\x15ǭ..Ȧ\xdc,v22888":"\xfe\x86V..&\x1aI,v22877"
+06:44:43.628910 version@stat F·[1 1] S·1022KiB[535KiB 486KiB] Sc·[0.25 0.00]
+06:44:43.642695 db@janitor F·5 G·1
+06:44:43.642760 db@janitor removing table-49
+06:44:43.642941 db@open done T·189.417738ms
+=============== Dec 25, 2023 (GMT) ===============
+06:49:46.686476 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:49:46.688605 version@stat F·[1 1] S·1022KiB[535KiB 486KiB] Sc·[0.25 0.00]
+06:49:46.688721 db@open opening
+06:49:46.688889 journal@recovery F·1
+06:49:46.708982 journal@recovery recovering @54
+06:49:46.710693 journal@drop journal-54 S·208B "chunk length overflows block"
+06:49:46.723153 memdb@flush created L0@56 N·94 S·3KiB "H\x00\x01..\x91ރ,v22966":"r\x00\x00..\xa1t\x80,v22986"
+06:49:46.738811 version@stat F·[2 1] S·1MiB[539KiB 486KiB] Sc·[0.50 0.00]
+06:49:46.751890 db@janitor F·5 G·0
+06:49:46.751981 db@open done T·63.218249ms
+06:49:47.057053 table@compaction L0·2 -> L1·1 S·1MiB Q·22995
+06:49:47.247460 table@build created L1@59 N·15348 S·887KiB "\x15ǭ..Ȧ\xdc,v22888":"\xfe\x86V..&\x1aI,v22877"
+06:49:47.247708 version@stat F·[0 1] S·887KiB[0B 887KiB] Sc·[0.00 0.01]
+06:49:47.251677 table@compaction committed F-2 S-139KiB Ke·0 D·3443 T·194.430439ms
+06:49:47.252144 table@remove removed @53
+06:49:47.252361 table@remove removed @52
+=============== Dec 26, 2023 (GMT) ===============
+14:26:05.117935 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:26:05.120029 version@stat F·[0 1] S·887KiB[0B 887KiB] Sc·[0.00 0.01]
+14:26:05.120134 db@open opening
+14:26:05.120313 journal@recovery F·1
+14:26:05.140908 journal@recovery recovering @57
+14:26:05.235880 journal@drop journal-57 S·2KiB "zero header"
+14:26:05.331451 memdb@flush created L0@60 N·14353 S·744KiB "H\x00)..\xce\x02h,v37269":"r\x00\x00..ܵw,v37343"
+14:26:05.349508 version@stat F·[1 1] S·1MiB[744KiB 887KiB] Sc·[0.25 0.01]
+14:26:05.362684 db@janitor F·5 G·1
+14:26:05.362740 db@janitor removing table-56
+14:26:05.362916 db@open done T·242.740727ms
+14:26:05.648314 table@compaction L0·1 -> L1·1 S·1MiB Q·37348
+14:26:06.152656 table@build created L1@63 N·24924 S·1MiB "\x15ǭ..Ȧ\xdc,v22888":"\xfe\x86V..&\x1aI,v22877"
+14:26:06.152871 version@stat F·[0 1] S·1MiB[0B 1MiB] Sc·[0.00 0.01]
+14:26:06.264544 table@compaction committed F-1 S-194KiB Ke·0 D·4777 T·616.031583ms
+14:26:06.265087 table@remove removed @59
